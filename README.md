@@ -5,10 +5,6 @@
 
 - 🌱 I’m currently learning **Data Science with Machine Learning and Artificial Intelligence**
 
-- 👯 I’m looking to collaborate on **AI based SEO Project**
-
-- 🤝 I’m looking for help with **AI based SEO Project**
-
 - 👨‍💻 Here is my LinkedIn [www.linkedin.com/in/abd-l-rehman-2b9a24305](www.linkedin.com/in/abd-l-rehman-2b9a24305)
 
 - 💬 Ask me about **Anything you want**
